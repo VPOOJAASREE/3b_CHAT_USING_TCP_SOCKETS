@@ -1,6 +1,6 @@
 V. POOJAA SREE - B.E(CSE) [212223040147]
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-## AIM
+## AIM:
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
 1. Import the necessary modules in python.
